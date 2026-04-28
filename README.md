@@ -48,6 +48,8 @@ The primary goal of this project was to strengthen frontend development skills a
 
 ## 📂 Project Structure
 
+```
+
 X-Clone/
 │
 ├── index.html
@@ -59,7 +61,7 @@ X-Clone/
 ├── package-lock.json
 ├── .gitignore
 └── README.md
-
+```
 ---
 
 ## ⚙️ Tailwind CSS Setup
